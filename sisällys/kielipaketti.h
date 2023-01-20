@@ -51,7 +51,7 @@
 #define tämä this
 #define viskaa throw
 #define tosi true
-#define yritä throw
+#define yritä try
 #define tyyppimääritelmä typedef
 #define tyyppitunniste typeid
 #define tyyppinimi typename
